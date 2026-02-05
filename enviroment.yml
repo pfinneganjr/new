@@ -1,0 +1,9 @@
+name: st-app
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - streamlit
+  - yfinance
+  - ta-lib
+  - pandas
